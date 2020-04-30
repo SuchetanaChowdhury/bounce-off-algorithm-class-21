@@ -1,2 +1,2 @@
-# bounce-off-algorithm-class-21
-game
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
